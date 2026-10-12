@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">حمية غذائية</string>
+    <string name="tagline">وصفات ذكية وحساب دقيق للسعرات</string>
+    <string name="tab_scan">تصوير الطبق</string>
+    <string name="tab_create">تكوين وصفة</string>
+    <string name="tab_diary">سجل اليوم</string>
+    <string name="tab_saved">المحفوظات</string>
+    <string name="take_photo">التقاط صورة</string>
+    <string name="choose_photo">اختيار من المعرض</string>
+    <string name="analyze_dish">تحليل السعرات والوصفة</string>
+    <string name="generate_recipe">ابتكار وصفة صحية</string>
+    <string name="calories">سعرة حرارية</string>
+    <string name="protein">بروتين</string>
+    <string name="carbs">كربوهيدرات</string>
+    <string name="fats">دهون</string>
+    <string name="fiber">ألياف</string>
+</resources>

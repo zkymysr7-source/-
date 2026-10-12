@@ -1,0 +1,7 @@
+{
+  "name": "حمية غذائية",
+  "description": "تطبيق لتكوين وصفات صحية وحساب السعرات الحرارية بدقة عبر الذكاء الاصطناعي من خلال تصوير الطبق أو كتابة المكونات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
